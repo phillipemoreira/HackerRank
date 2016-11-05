@@ -10,7 +10,10 @@ namespace HackerRank
     {
         public static void Main(String[] args)
         {
-            Day1_DataTypes.Main(args);
+            //Uncomment the line of the problem you wish to run.
+
+            //Day1_DataTypes.Main(args);
+            Day2_Operators.Main(args);
 
             Console.Read();
         }
