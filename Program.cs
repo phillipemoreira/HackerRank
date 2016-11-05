@@ -13,7 +13,9 @@ namespace HackerRank
             //Uncomment the line of the problem you wish to run.
 
             //Day1_DataTypes.Main(args);
-            Day2_Operators.Main(args);
+            //Day2_Operators.Main(args);
+
+            CompareTheTriplets.Main(args);
 
             Console.Read();
         }
