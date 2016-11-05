@@ -8,8 +8,11 @@ namespace HackerRank
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(String[] args)
         {
+            Day1_DataTypes.Main(args);
+
+            Console.Read();
         }
     }
 }
