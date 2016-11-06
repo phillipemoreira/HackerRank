@@ -14,8 +14,9 @@ namespace HackerRank
 
             //Day1_DataTypes.Main(args);
             //Day2_Operators.Main(args);
+            Day3_ConditionalStatements.Main(args);
 
-            CompareTheTriplets.Main(args);
+            //CompareTheTriplets.Main(args);
 
             Console.Read();
         }
