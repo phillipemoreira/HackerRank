@@ -2,6 +2,9 @@
 
 namespace HackerRank
 {
+    /// <summary>
+    /// Problem link: https://www.hackerrank.com/challenges/compare-the-triplets
+    /// </summary>
     class CompareTheTriplets
     {
         public static void Main(String[] args)
@@ -52,6 +55,5 @@ namespace HackerRank
             // Printing the result
             Console.WriteLine(alicePoints + " " + bobPoints);
         }
-
     }
 }
