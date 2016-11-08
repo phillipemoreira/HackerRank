@@ -15,7 +15,8 @@ namespace HackerRank
             //Day1_DataTypes.Main(args);
             //Day2_Operators.Main(args);
             //Day3_ConditionalStatements.Main(args);
-            Day4_ClassVsInstance.Main(args);
+            //Day4_ClassVsInstance.Main(args);
+            Day5_Loops.Main(args);
 
             //CompareTheTriplets.Main(args);
             //LoveLetterMistery.Main(args);
