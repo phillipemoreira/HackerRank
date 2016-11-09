@@ -7,3 +7,6 @@ C:\Users\phillipe\Documents\GitHub\HackerRank\obj\Debug\HackerRank.pdb
 C:\Users\phillipe\Documents\GitHub\HackerRank\C#\bin\Debug\HackerRank.exe.config
 C:\Users\phillipe\Documents\GitHub\HackerRank\C#\obj\Debug\HackerRank.exe
 C:\Users\phillipe\Documents\GitHub\HackerRank\C#\obj\Debug\HackerRank.pdb
+C:\Users\phillipe\Documents\GitHub\HackerRank\C#\bin\Debug\HackerRank.exe
+C:\Users\phillipe\Documents\GitHub\HackerRank\C#\bin\Debug\HackerRank.pdb
+C:\Users\phillipe\Documents\GitHub\HackerRank\C#\obj\Debug\HackerRank.csprojResolveAssemblyReference.cache

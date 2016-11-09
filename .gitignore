@@ -10,3 +10,4 @@ bin/Debug/HackerRank.exe.config
 *.pdb
 *.cache
 *.suo
+C#/bin/Debug/HackerRank.vshost.exe.manifest

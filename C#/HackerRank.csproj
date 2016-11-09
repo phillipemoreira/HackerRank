@@ -56,6 +56,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day3_ConditionalStatements.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day4_ClassVsInstance.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day5_Loops.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day6_Review.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
