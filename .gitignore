@@ -11,3 +11,5 @@ bin/Debug/HackerRank.exe.config
 *.cache
 *.suo
 C#/bin/Debug/HackerRank.vshost.exe.manifest
+*.xml
+Python/.idea/Python.iml
