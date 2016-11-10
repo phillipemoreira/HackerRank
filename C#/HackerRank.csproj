@@ -57,6 +57,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day4_ClassVsInstance.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day5_Loops.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day6_Review.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day7_Arrays.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
