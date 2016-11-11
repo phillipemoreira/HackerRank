@@ -18,12 +18,13 @@ namespace HackerRank
             //Day4_ClassVsInstance.Main(args);
             //Day5_Loops.Main(args);
             //Day6_Review.Main(args);
-            Day7_Arrays.Main(args);
+            //Day7_Arrays.Main(args);
+            Day8_DictionariesAndMaps.Main(args);
 
             //CompareTheTriplets.Main(args);
             //LoveLetterMistery.Main(args);
             //CamelCase.Main(args);
-            
+
             Console.Read();
         }
     }
