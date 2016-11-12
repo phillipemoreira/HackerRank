@@ -19,7 +19,8 @@ namespace HackerRank
             //Day5_Loops.Main(args);
             //Day6_Review.Main(args);
             //Day7_Arrays.Main(args);
-            Day8_DictionariesAndMaps.Main(args);
+            //Day8_DictionariesAndMaps.Main(args);
+            Day9_Recursion.Main(args);
 
             //CompareTheTriplets.Main(args);
             //LoveLetterMistery.Main(args);
