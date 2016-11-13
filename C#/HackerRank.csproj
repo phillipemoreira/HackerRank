@@ -51,6 +51,7 @@
     <Compile Include="Algorithms\Warmup\CompareTheTriplets.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day10_BinaryNumbers.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1_DataTypes.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2_Operators.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3_ConditionalStatements.cs" />
