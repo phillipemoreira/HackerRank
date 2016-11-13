@@ -2,6 +2,9 @@
 
 namespace HackerRank
 {
+    /// <summary>
+    /// Problem link: https://www.hackerrank.com/challenges/30-arrays
+    /// </summary>
     class Day7_Arrays
     {
         public static void Main(String[] args)

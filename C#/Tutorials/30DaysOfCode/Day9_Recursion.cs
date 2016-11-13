@@ -2,6 +2,9 @@
 
 namespace HackerRank
 {
+    /// <summary>
+    /// Problem link: https://www.hackerrank.com/challenges/30-recursion
+    /// </summary>
     class Day9_Recursion
     {
         public static void Main(String[] args)

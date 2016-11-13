@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace HackerRank
 {
+    /// <summary>
+    /// Problem link: https://www.hackerrank.com/challenges/30-binary-numbers
+    /// </summary>
     class Day10_BinaryNumbers
     {
         public static void Main(String[] args)

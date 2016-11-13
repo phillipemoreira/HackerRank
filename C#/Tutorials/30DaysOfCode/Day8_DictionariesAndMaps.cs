@@ -3,6 +3,9 @@ using System.Collections.Generic;
 
 namespace HackerRank
 {
+    /// <summary>
+    /// Problem link: https://www.hackerrank.com/challenges/30-dictionaries-and-maps
+    /// </summary>
     class Day8_DictionariesAndMaps
     {
         public static void Main(String[] args)
