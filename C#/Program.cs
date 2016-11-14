@@ -21,7 +21,8 @@ namespace HackerRank
             //Day7_Arrays.Main(args);
             //Day8_DictionariesAndMaps.Main(args);
             //Day9_Recursion.Main(args);
-            Day10_BinaryNumbers.Main(args);
+            //Day10_BinaryNumbers.Main(args);
+            Day11_2DArrays.Main(args);
 
             //CompareTheTriplets.Main(args);
             //LoveLetterMistery.Main(args);
