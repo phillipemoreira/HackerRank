@@ -23,7 +23,9 @@ namespace HackerRank
             //Day9_Recursion.Main(args);
             //Day10_BinaryNumbers.Main(args);
             //Day11_2DArrays.Main(args);
-            HackerRank.Inheritance.Solution.Main(args);
+            //HackerRank.Inheritance.Solution.Main(args);
+            //Day13_AbstractClasses.Main(args);
+            Day14_Scoce.Main(args);
 
             //CompareTheTriplets.Main(args);
             //LoveLetterMistery.Main(args);
