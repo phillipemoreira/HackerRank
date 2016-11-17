@@ -25,11 +25,13 @@ namespace HackerRank
             //Day11_2DArrays.Main(args);
             //HackerRank.Inheritance.Solution.Main(args);
             //Day13_AbstractClasses.Main(args);
-            Day14_Scoce.Main(args);
+            //Day14_Scoce.Main(args);
 
             //CompareTheTriplets.Main(args);
             //LoveLetterMistery.Main(args);
             //CamelCase.Main(args);
+            //Staircase.Main(args);
+            CircularArrayRotation.Main(args);
 
             Console.Read();
         }

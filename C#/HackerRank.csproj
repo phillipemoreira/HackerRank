@@ -48,7 +48,9 @@
   <ItemGroup>
     <Compile Include="Algorithms\String\CamelCase.cs" />
     <Compile Include="Algorithms\String\LoveLetterMistery.cs" />
+    <Compile Include="Algorithms\Warmup\CircularArrayRotation.cs" />
     <Compile Include="Algorithms\Warmup\CompareTheTriplets.cs" />
+    <Compile Include="Algorithms\Warmup\Staircase.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day10_BinaryNumbers.cs" />
