@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HackerRank
 {
@@ -12,6 +8,7 @@ namespace HackerRank
         {
             //Uncomment the line of the problem you wish to run.
 
+            ///Tutorials
             //Day1_DataTypes.Main(args);
             //Day2_Operators.Main(args);
             //Day3_ConditionalStatements.Main(args);
@@ -27,11 +24,17 @@ namespace HackerRank
             //Day13_AbstractClasses.Main(args);
             //Day14_Scoce.Main(args);
 
+            ///Algorithms
             //CompareTheTriplets.Main(args);
+            //Staircase.Main(args);
+            //CircularArrayRotation.Main(args);
+            //DiagonalDifference.Main(args);
+            //PlusMinus.Main(args);
+            //VeryBigSum.Main(args);
+            TimeConversion.Main(args);
+
             //LoveLetterMistery.Main(args);
             //CamelCase.Main(args);
-            //Staircase.Main(args);
-            CircularArrayRotation.Main(args);
 
             Console.Read();
         }
