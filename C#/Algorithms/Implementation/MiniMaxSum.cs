@@ -8,7 +8,7 @@ class MiniMaxSum
     /// <summary>
     /// N^2 approach, where I use the first loop to choose which element to let out of the sum.
     /// </summary>
-    public static void Main(String[] args)
+    public static void Main()
     {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution */
         Int64[] array = Array.ConvertAll(Console.ReadLine().Split(' '), Int64.Parse);

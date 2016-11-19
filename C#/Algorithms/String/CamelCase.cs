@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class CamelCase
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             string input = Console.ReadLine();
 

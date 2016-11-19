@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day4_ClassVsInstance
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             int T = int.Parse(Console.In.ReadLine());
             for (int i = 0; i < T; i++)

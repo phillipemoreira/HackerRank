@@ -10,7 +10,7 @@ namespace HackerRank
     /// </remarks>
     class LoveLetterMistery
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             int numberOfTestCases = Convert.ToInt32(Console.ReadLine());
         

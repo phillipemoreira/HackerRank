@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     public class VeryBigSum
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             Console.ReadLine();
             string[] arr_temp = Console.ReadLine().Split(' ');

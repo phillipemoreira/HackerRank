@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class CompareTheTriplets
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             // Reading the notes and placing them in different variables
             string[] tokens_a0 = Console.ReadLine().Split(' ');

@@ -9,34 +9,40 @@ namespace HackerRank
             //Uncomment the line of the problem you wish to run.
 
             ///Tutorials
-            //Day1_DataTypes.Main(args);
-            //Day2_Operators.Main(args);
-            //Day3_ConditionalStatements.Main(args);
-            //Day4_ClassVsInstance.Main(args);
-            //Day5_Loops.Main(args);
-            //Day6_Review.Main(args);
-            //Day7_Arrays.Main(args);
-            //Day8_DictionariesAndMaps.Main(args);
-            //Day9_Recursion.Main(args);
-            //Day10_BinaryNumbers.Main(args);
-            //Day11_2DArrays.Main(args);
-            //HackerRank.Inheritance.Solution.Main(args);
-            //Day13_AbstractClasses.Main(args);
-            //Day14_Scoce.Main(args);
+                ///30 Days of Code
+                    //Day1_DataTypes.Main();
+                    //Day2_Operators.Main();
+                    //Day3_ConditionalStatements.Main();
+                    //Day4_ClassVsInstance.Main();
+                    //Day5_Loops.Main();
+                    //Day6_Review.Main();
+                    //Day7_Arrays.Main();
+                    //Day8_DictionariesAndMaps.Main();
+                    //Day9_Recursion.Main();
+                    //Day10_BinaryNumbers.Main();
+                    //Day11_2DArrays.Main();
+                    //HackerRank.Inheritance.Solution.Main();
+                    //Day13_AbstractClasses.Main();
+                    //Day14_Scoce.Main();
+                    //Day15_LinkedList.Main();
+                    Day16_Exceptions.Main();
 
             ///Algorithms
-            //CompareTheTriplets.Main(args);
-            //Staircase.Main(args);
-            //CircularArrayRotation.Main(args);
-            //DiagonalDifference.Main(args);
-            //PlusMinus.Main(args);
-            //VeryBigSum.Main(args);
-            //TimeConversion.Main(args);
+                /// Warmup
+                    //CompareTheTriplets.Main();
+                    //Staircase.Main();
+                    //CircularArrayRotation.Main();
+                    //DiagonalDifference.Main();
+                    //PlusMinus.Main();
+                    //VeryBigSum.Main();
+                    //TimeConversion.Main();
 
-            MiniMaxSum.Main(args);
+                /// Implementation
+                    //MiniMaxSum.Main();
 
-            //LoveLetterMistery.Main(args);
-            //CamelCase.Main(args);
+                /// String
+                    //LoveLetterMistery.Main();
+                    //CamelCase.Main();
 
             Console.Read();
         }

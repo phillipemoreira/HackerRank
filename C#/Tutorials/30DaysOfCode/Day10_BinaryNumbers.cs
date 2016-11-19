@@ -8,7 +8,7 @@ namespace HackerRank
     /// </summary>
     class Day10_BinaryNumbers
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             // Read the decimal number.
             var n = Convert.ToInt32(Console.ReadLine());

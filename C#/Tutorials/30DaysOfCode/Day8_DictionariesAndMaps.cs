@@ -8,7 +8,7 @@ namespace HackerRank
     /// </summary>
     class Day8_DictionariesAndMaps
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             // Creating the phone book.
             Dictionary<String, string> phoneBook = new Dictionary<string, string>();

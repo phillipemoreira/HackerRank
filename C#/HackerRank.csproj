@@ -64,6 +64,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day13_AbstractClasses.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day14_Scoce.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day15_LinkedList.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day16_Exceptions.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day1_DataTypes.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2_Operators.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3_ConditionalStatements.cs" />

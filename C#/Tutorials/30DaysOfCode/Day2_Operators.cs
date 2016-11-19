@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day2_Operators
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             // Reading from Console
             double mealCost = Convert.ToDouble(Console.ReadLine());

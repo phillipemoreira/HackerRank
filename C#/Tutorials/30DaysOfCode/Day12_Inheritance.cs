@@ -8,7 +8,7 @@ namespace HackerRank.Inheritance
     /// </summary>
     class Solution
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             string[] inputs = Console.ReadLine().Split();
             string firstName = inputs[0];

@@ -8,7 +8,7 @@ namespace HackerRank
     /// </summary>
     class CircularArrayRotation
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             string[] tokens_n = Console.ReadLine().Split(' ');
             int k = Convert.ToInt32(tokens_n[1]);

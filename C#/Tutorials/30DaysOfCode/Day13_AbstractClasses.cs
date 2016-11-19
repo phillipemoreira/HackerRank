@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day13_AbstractClasses
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             String tittle = Console.ReadLine();
             String author = Console.ReadLine();

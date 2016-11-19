@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class PlusMinus
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             int n = Convert.ToInt32(Console.ReadLine());
             string[] arr_temp = Console.ReadLine().Split(' ');

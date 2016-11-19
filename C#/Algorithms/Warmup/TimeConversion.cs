@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class TimeConversion
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             string time = Console.ReadLine();
 

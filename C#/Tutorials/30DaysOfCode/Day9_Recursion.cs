@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day9_Recursion
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             var N = Convert.ToInt32(Console.ReadLine());
 

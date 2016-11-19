@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day3_ConditionalStatements
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             // Reading from console
             int N = Convert.ToInt32(Console.ReadLine());

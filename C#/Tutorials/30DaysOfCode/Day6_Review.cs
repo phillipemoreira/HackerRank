@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day6_Review
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             // Number of test cases.
             int T = Convert.ToInt32(Console.ReadLine());

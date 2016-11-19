@@ -8,7 +8,7 @@ namespace HackerRank
     /// </summary>
     class Day14_Scoce
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             Convert.ToInt32(Console.ReadLine());
 

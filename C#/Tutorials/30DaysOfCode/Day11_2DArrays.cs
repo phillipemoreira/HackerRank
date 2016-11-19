@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day11_2DArrays
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             int[][] arr = new int[6][];
             for (int arr_i = 0; arr_i < 6; arr_i++)

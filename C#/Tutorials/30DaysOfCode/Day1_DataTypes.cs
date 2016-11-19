@@ -7,7 +7,7 @@ namespace HackerRank
     /// </summary>
     class Day1_DataTypes
     {
-        public static void Main(String[] args)
+        public static void Main()
         {
             int i = 4;
             double d = 4.0;
