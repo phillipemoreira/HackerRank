@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Algorithms\Implementation\MiniMaxSum.cs" />
+    <Compile Include="Algorithms\Implementation\SockMerchant.cs" />
     <Compile Include="Algorithms\String\CamelCase.cs" />
     <Compile Include="Algorithms\String\LoveLetterMistery.cs" />
     <Compile Include="Algorithms\Warmup\CircularArrayRotation.cs" />
