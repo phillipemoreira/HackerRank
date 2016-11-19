@@ -31,7 +31,9 @@ namespace HackerRank
             //DiagonalDifference.Main(args);
             //PlusMinus.Main(args);
             //VeryBigSum.Main(args);
-            TimeConversion.Main(args);
+            //TimeConversion.Main(args);
+
+            MiniMaxSum.Main(args);
 
             //LoveLetterMistery.Main(args);
             //CamelCase.Main(args);
