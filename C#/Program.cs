@@ -26,6 +26,7 @@ namespace HackerRank
                     //Day14_Scoce.Main();
                     //Day15_LinkedList.Main();
                     //Day16_Exceptions.Main();
+                    Day17_MoreExceptions.Main();
 
             ///Algorithms
                 /// Warmup
@@ -39,7 +40,7 @@ namespace HackerRank
 
                 /// Implementation
                     //MiniMaxSum.Main();
-                    SockMerchant.Main();
+                    //SockMerchant.Main();
 
                 /// String
                     //LoveLetterMistery.Main();
