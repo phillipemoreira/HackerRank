@@ -26,7 +26,9 @@ namespace HackerRank
                     //Day14_Scoce.Main();
                     //Day15_LinkedList.Main();
                     //Day16_Exceptions.Main();
-                    Day17_MoreExceptions.Main();
+                    //Day17_MoreExceptions.Main();
+                    //Day18_QueuesAndStacks.Main();
+                    Day19_Interfaces.Main();
 
             ///Algorithms
                 /// Warmup
