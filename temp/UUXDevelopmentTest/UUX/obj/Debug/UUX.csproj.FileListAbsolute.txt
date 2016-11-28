@@ -1,6 +1,0 @@
-C:\Users\phillipe\Documents\Visual Studio 2015\Projects\UUXDevelopmentTest\UUX\bin\Debug\UUX.exe.config
-C:\Users\phillipe\Documents\Visual Studio 2015\Projects\UUXDevelopmentTest\UUX\bin\Debug\UUX.exe
-C:\Users\phillipe\Documents\Visual Studio 2015\Projects\UUXDevelopmentTest\UUX\bin\Debug\UUX.pdb
-C:\Users\phillipe\Documents\Visual Studio 2015\Projects\UUXDevelopmentTest\UUX\obj\Debug\UUX.exe
-C:\Users\phillipe\Documents\Visual Studio 2015\Projects\UUXDevelopmentTest\UUX\obj\Debug\UUX.pdb
-C:\Users\phillipe\Documents\Visual Studio 2015\Projects\UUXDevelopmentTest\UUX\obj\Debug\UUX.csprojResolveAssemblyReference.cache
