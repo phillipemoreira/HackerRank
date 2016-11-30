@@ -30,7 +30,8 @@ namespace HackerRank
                     //Day18_QueuesAndStacks.Main();
                     //Day19_Interfaces.Main();
                     //Day20_Sorting.Main();
-                    Day21_Generics.Main();
+                    //Day21_Generics.Main();
+                    HackerRank.BST.Day22_BST.Main();
 
             ///Algorithms
                 /// Warmup
