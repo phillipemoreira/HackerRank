@@ -79,6 +79,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day7_Arrays.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day8_DictionariesAndMaps.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day9_Recursion.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day21_Generics.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
