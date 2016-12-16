@@ -72,6 +72,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day1_DataTypes.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day20_Sorting.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day22_BST.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day23_BST_LevelTraversalOrder.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2_Operators.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3_ConditionalStatements.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day4_ClassVsInstance.cs" />

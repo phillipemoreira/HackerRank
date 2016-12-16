@@ -3,17 +3,6 @@ using System.Collections.Generic;
 
 namespace HackerRank.BST
 {
-    class Node
-    {
-        public Node left, right;
-        public int data;
-        public Node (int data)
-        {
-            this.data = data;
-            left = right = null;
-        }
-    }
-
     /// <summary>
     /// Problem link:https://www.hackerrank.com/challenges/30-binary-trees
     /// </summary>
