@@ -35,7 +35,8 @@ namespace HackerRank
                     //HackerRank.BST.Day23_BST_LevelTraversalOrder.Main();
                     //Day24_MoreLinkedLists.Main();
                     //Day25_RunningTimeAndComplexity.Main();
-                    Day26_NestedLogic.Main();
+                    //Day26_NestedLogic.Main();
+                    Day27_Testing.Main();
 
             ///Algorithms
                 /// Warmup
