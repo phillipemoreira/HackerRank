@@ -78,6 +78,7 @@
     <Compile Include="Tutorials\30DaysOfCode\Day26_NestedLogic.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day27_Testing.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day28_RegexPatterns.cs" />
+    <Compile Include="Tutorials\30DaysOfCode\Day29_BitwiseAND.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day2_Operators.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day3_ConditionalStatements.cs" />
     <Compile Include="Tutorials\30DaysOfCode\Day4_ClassVsInstance.cs" />

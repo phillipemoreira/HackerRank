@@ -37,7 +37,8 @@ namespace HackerRank
                     //Day25_RunningTimeAndComplexity.Main();
                     //Day26_NestedLogic.Main();
                     //Day27_Testing.Main();
-                    Day28_RegexPatterns.Main();
+                    //Day28_RegexPatterns.Main();
+                    Day29_BitwiseAND.Main();
 
             ///Algorithms
                 /// Warmup
